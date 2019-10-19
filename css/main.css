@@ -294,6 +294,10 @@ footer {
     line-height: 104px
 }
 
+.carousel-element {
+  overflow: hidden;
+}
+
 .card {
   background: url("../img/cbg.jpg");
   color: #333;
